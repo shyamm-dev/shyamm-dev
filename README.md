@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shyamm-dev
+- 👋 Hi, I’m @shyamm-dev (Frontend Dev) - Angular
 - 👀 I’m interested in being the best at what i do !
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me -> shyammsundar.k.dev@gmail.com
 - ⚡ My motivation: Discipline
